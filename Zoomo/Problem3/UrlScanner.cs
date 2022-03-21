@@ -94,7 +94,7 @@ namespace Zoomo.Problem3
                 Console.WriteLine("Error code: {0}", httpResponse.StatusCode);
                 return httpResponse.StatusCode is HttpStatusCode.Moved or HttpStatusCode.Redirect;
             }
-            catch (Exception e)
+            catch
             {
                 return false;
             }
