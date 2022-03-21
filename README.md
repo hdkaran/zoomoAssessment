@@ -27,3 +27,5 @@ The tests have been written using xUnit tests.
 2. In your terminal, while you're in the ZoomoTests directory, run the command "dotnet test"
 
 Please note: The test for URL checker might fail, that is due to the fact that one of the files being used has a lot of links in it and some of the links occasionally does not work.
+
+Please feel free to contact me if there are any problems running the project. My email is karanbhatia0161@gmail.com
