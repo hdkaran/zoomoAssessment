@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=47817305_002Da4c1_002D47a1_002D92e5_002D0b16a287dfd7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Should_Test_Something" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::47FB12A0-7FD8-4931-950C-233D9047354D::net5.0::ZoomoTests.AllTests.Should_Throw_An_Exception_If_File_Is_Not_Html&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=809b0baa_002D9f0b_002D42c0_002Dbf1b_002D4fa3e370a677/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Should_Check_Only_Strings_For_Null_Or_Empty" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::47FB12A0-7FD8-4931-950C-233D9047354D::net5.0::ZoomoTests.AllTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d4e03c92_002D2bb8_002D4b5c_002Da9c7_002Daac2549798ff/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Should_Throw_An_Exception_If_File_Is_Not_Html" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::47FB12A0-7FD8-4931-950C-233D9047354D::net5.0::ZoomoTests.AllTests.Should_Throw_An_Exception_If_File_Is_Not_Html&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::47FB12A0-7FD8-4931-950C-233D9047354D::net5.0::ZoomoTests.AllTests.Should_Throw_Error_When_Triangle_Has_Invalid_Sides&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::47FB12A0-7FD8-4931-950C-233D9047354D::net5.0::ZoomoTests.AllTests.Should_Return_Correct_Response_After_Scan&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1EmsTonGYjR6H2gnSUGsqIfo5antYbTj/7vlbF0Q4ddGv37tMa9RoF1gNwhtS5JLMaVNM4fjO0mtydIPe0yR2A==",
+  "success": true,
+  "projectFilePath": "/Users/karanbhatia/RiderProjects/ZoomoAssessment/Zoomo/Zoomo.csproj",
+  "expectedPackageFiles": [
+    "/Users/karanbhatia/.nuget/packages/htmlagilitypack/1.11.42/htmlagilitypack.1.11.42.nupkg.sha512",
+    "/Users/karanbhatia/.nuget/packages/restsharp/107.3.0/restsharp.107.3.0.nupkg.sha512",
+    "/Users/karanbhatia/.nuget/packages/system.text.json/5.0.0/system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

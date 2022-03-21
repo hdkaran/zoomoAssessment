@@ -1,0 +1,12 @@
+/Users/karanbhatia/RiderProjects/ZoomoAssessment/bin/Debug/net5.0/ZoomoAssessment.deps.json
+/Users/karanbhatia/RiderProjects/ZoomoAssessment/bin/Debug/net5.0/ZoomoAssessment.dll
+/Users/karanbhatia/RiderProjects/ZoomoAssessment/bin/Debug/net5.0/ref/ZoomoAssessment.dll
+/Users/karanbhatia/RiderProjects/ZoomoAssessment/bin/Debug/net5.0/ZoomoAssessment.pdb
+/Users/karanbhatia/RiderProjects/ZoomoAssessment/obj/Debug/net5.0/ZoomoAssessment.csproj.AssemblyReference.cache
+/Users/karanbhatia/RiderProjects/ZoomoAssessment/obj/Debug/net5.0/ZoomoAssessment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karanbhatia/RiderProjects/ZoomoAssessment/obj/Debug/net5.0/ZoomoAssessment.AssemblyInfoInputs.cache
+/Users/karanbhatia/RiderProjects/ZoomoAssessment/obj/Debug/net5.0/ZoomoAssessment.AssemblyInfo.cs
+/Users/karanbhatia/RiderProjects/ZoomoAssessment/obj/Debug/net5.0/ZoomoAssessment.csproj.CoreCompileInputs.cache
+/Users/karanbhatia/RiderProjects/ZoomoAssessment/obj/Debug/net5.0/ZoomoAssessment.dll
+/Users/karanbhatia/RiderProjects/ZoomoAssessment/obj/Debug/net5.0/ref/ZoomoAssessment.dll
+/Users/karanbhatia/RiderProjects/ZoomoAssessment/obj/Debug/net5.0/ZoomoAssessment.pdb
